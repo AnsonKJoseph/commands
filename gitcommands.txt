@@ -4,3 +4,4 @@
 > git commit -m "messageM"
 > git add -A (2)
 > git add -A (3)
+> git add -A (4)
