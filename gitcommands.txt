@@ -2,3 +2,4 @@
 > git status
 > git add -A
 > git commit -m "messageM"
+> git add -A (2)
